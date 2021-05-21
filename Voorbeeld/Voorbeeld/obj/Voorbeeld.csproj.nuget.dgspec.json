@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Voorbeeld\\Voorbeeld.csproj": {}
+    "C:\\Users\\mauri\\Documents\\1AVANS\\Jaar 3 Differentatie\\3.4 Formele Methode\\Projecten\\EindOpdrachtMatthijsMaurice\\FormeleMethode\\Voorbeeld\\Voorbeeld\\Voorbeeld.csproj": {}
   },
   "projects": {
-    "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Voorbeeld\\Voorbeeld.csproj": {
+    "C:\\Users\\mauri\\Documents\\1AVANS\\Jaar 3 Differentatie\\3.4 Formele Methode\\Projecten\\EindOpdrachtMatthijsMaurice\\FormeleMethode\\Voorbeeld\\Voorbeeld\\Voorbeeld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Voorbeeld\\Voorbeeld.csproj",
+        "projectUniqueName": "C:\\Users\\mauri\\Documents\\1AVANS\\Jaar 3 Differentatie\\3.4 Formele Methode\\Projecten\\EindOpdrachtMatthijsMaurice\\FormeleMethode\\Voorbeeld\\Voorbeeld\\Voorbeeld.csproj",
         "projectName": "Voorbeeld",
-        "projectPath": "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Voorbeeld\\Voorbeeld.csproj",
-        "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Voorbeeld\\obj\\",
+        "projectPath": "C:\\Users\\mauri\\Documents\\1AVANS\\Jaar 3 Differentatie\\3.4 Formele Methode\\Projecten\\EindOpdrachtMatthijsMaurice\\FormeleMethode\\Voorbeeld\\Voorbeeld\\Voorbeeld.csproj",
+        "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mauri\\Documents\\1AVANS\\Jaar 3 Differentatie\\3.4 Formele Methode\\Projecten\\EindOpdrachtMatthijsMaurice\\FormeleMethode\\Voorbeeld\\Voorbeeld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

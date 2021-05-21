@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\matth\\.nuget\\packages\\": {},
+    "C:\\Users\\mauri\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Formele Methoden\\Formele Methoden.csproj",
+      "projectUniqueName": "C:\\Users\\mauri\\Documents\\1AVANS\\Jaar 3 Differentatie\\3.4 Formele Methode\\Projecten\\EindOpdrachtMatthijsMaurice\\FormeleMethode\\Voorbeeld\\Formele Methoden\\Formele Methoden.csproj",
       "projectName": "Formele Methoden",
-      "projectPath": "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Formele Methoden\\Formele Methoden.csproj",
-      "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Formele Methoden\\obj\\",
+      "projectPath": "C:\\Users\\mauri\\Documents\\1AVANS\\Jaar 3 Differentatie\\3.4 Formele Methode\\Projecten\\EindOpdrachtMatthijsMaurice\\FormeleMethode\\Voorbeeld\\Formele Methoden\\Formele Methoden.csproj",
+      "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mauri\\Documents\\1AVANS\\Jaar 3 Differentatie\\3.4 Formele Methode\\Projecten\\EindOpdrachtMatthijsMaurice\\FormeleMethode\\Voorbeeld\\Formele Methoden\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
