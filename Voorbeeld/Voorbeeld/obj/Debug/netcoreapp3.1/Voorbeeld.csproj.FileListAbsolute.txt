@@ -1,0 +1,15 @@
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\bin\Debug\netcoreapp3.1\Voorbeeld.exe
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\bin\Debug\netcoreapp3.1\Voorbeeld.deps.json
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\bin\Debug\netcoreapp3.1\Voorbeeld.runtimeconfig.json
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\bin\Debug\netcoreapp3.1\Voorbeeld.runtimeconfig.dev.json
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\bin\Debug\netcoreapp3.1\Voorbeeld.dll
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\bin\Debug\netcoreapp3.1\Voorbeeld.pdb
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\bin\Debug\netcoreapp3.1\C5.dll
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.csprojAssemblyReference.cache
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.AssemblyInfoInputs.cache
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.AssemblyInfo.cs
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.csproj.CopyComplete
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.dll
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.pdb
+C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.genruntimeconfig.cache
