@@ -229,6 +229,7 @@ namespace Voorbeeld
         /// </summary>
         /// <param name="tree"></param>
         /// <returns></returns>
+        /// ******************************************************************************************CHECK
         public static NFA TreeToNFA(ParseTree tree)
         {
             switch (tree.type)

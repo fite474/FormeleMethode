@@ -212,6 +212,63 @@ namespace Voorbeeld
             else
                 return left;
         }
+
+        /// <summary>
+        /// The main entry point of the Console Application
+        /// </summary>
+        /// <param name="args"></param>
+        static void Main(string[] args)
+        {
+#if DEBUG
+            args = new[] { "Voorbeeld", "(l|e)*n?(i|e)el*", "leniel" };
+
+
+            //args = new[] { "Voorbeeld", "((ba*b)|(bb+a)|(aa))", "baaaaaabbbaa" };
+#endif
+            //((ba*b) | (bb)+ | (aa)+)+
+            if (args.Length != 3)
+            {
+                Console.WriteLine("Call with the regex as an argument.");
+
+                Environment.Exit(1);
+            }
+
+            RegexParser myRegexParser = new RegexParser();
+
+            // Passing the regex to be preprocessed.
+            myRegexParser.Init(args[1]);
+
+            // Creating a parse tree with the preprocessed regex
+            ParseTree parseTree = myRegexParser.Expr();
+
+            // Checking for a string termination character after
+            // parsing the regex
+            if (myRegexParser.Peek() != '\0')
+            {
+                Console.WriteLine("Parse error: unexpected char, got {0} at #{1}",
+
+                myRegexParser.Peek(), myRegexParser.GetPos());
+
+                Environment.Exit(1);
+            }
+
+            PrintTree(parseTree, 1);
+
+            NFA nfa = NFA.TreeToNFA(parseTree);
+
+            nfa.Show();
+
+            DFA dfa = SubsetMachine.SubsetConstruct(nfa);
+
+            dfa.Show();
+
+            Console.Write("\n\n");
+
+            Console.Write("Result: {0}", dfa.Simulate(args[2]));
+
+            Console.ReadKey();
+        }
+
     }
 }
 
