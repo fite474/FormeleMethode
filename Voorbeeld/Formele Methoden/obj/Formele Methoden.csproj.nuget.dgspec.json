@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Voorbeeld\\Voorbeeld.csproj": {}
+    "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Formele Methoden\\Formele Methoden.csproj": {}
   },
   "projects": {
-    "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Voorbeeld\\Voorbeeld.csproj": {
+    "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Formele Methoden\\Formele Methoden.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Voorbeeld\\Voorbeeld.csproj",
-        "projectName": "Voorbeeld",
-        "projectPath": "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Voorbeeld\\Voorbeeld.csproj",
+        "projectUniqueName": "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Formele Methoden\\Formele Methoden.csproj",
+        "projectName": "Formele Methoden",
+        "projectPath": "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Formele Methoden\\Formele Methoden.csproj",
         "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Voorbeeld\\obj\\",
+        "outputPath": "D:\\School\\Periode_12\\Fornele Methoden\\FormeleMethode\\Voorbeeld\\Formele Methoden\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,12 +42,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "C5": {
-              "target": "Package",
-              "version": "[2.5.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

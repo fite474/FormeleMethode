@@ -13,3 +13,18 @@ C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Project
 C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.dll
 C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.pdb
 C:\Users\mauri\Documents\1AVANS\Jaar 3 Differentatie\3.4 Formele Methode\Projecten\VoorbeeldCSharp\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.genruntimeconfig.cache
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\bin\Debug\netcoreapp3.1\Voorbeeld.exe
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\bin\Debug\netcoreapp3.1\Voorbeeld.deps.json
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\bin\Debug\netcoreapp3.1\Voorbeeld.runtimeconfig.json
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\bin\Debug\netcoreapp3.1\Voorbeeld.runtimeconfig.dev.json
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\bin\Debug\netcoreapp3.1\Voorbeeld.dll
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\bin\Debug\netcoreapp3.1\Voorbeeld.pdb
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\bin\Debug\netcoreapp3.1\C5.dll
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.csprojAssemblyReference.cache
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.AssemblyInfoInputs.cache
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.AssemblyInfo.cs
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.csproj.CoreCompileInputs.cache
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.csproj.CopyComplete
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.dll
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.pdb
+D:\School\Periode_12\Fornele Methoden\FormeleMethode\Voorbeeld\Voorbeeld\obj\Debug\netcoreapp3.1\Voorbeeld.genruntimeconfig.cache
